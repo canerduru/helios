@@ -1,0 +1,8 @@
+{
+  "name": "v2 Helios Health",
+  "description": "AI-powered family health operating system. Aggregates data, provides a personal health agent, and generates clinical summaries for doctors.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
